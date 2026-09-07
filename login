@@ -1,13 +1,5 @@
-Login Feature
-
------------------
-username: veeadmin
-password: vee@123
-status  : login created
-
-<<<<<<< HEAD
------------------
-Thanks for the login
-=======
-----------------
-Thanks for login.
+Application Login
+=================
+Username authentication enabled
+Password authentication enabled
+Login status: Active
